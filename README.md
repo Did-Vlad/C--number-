@@ -1,4 +1,5 @@
 C--number-
+
 #include <stdio.h>
 
 int count_equal_divisors(int n) {
